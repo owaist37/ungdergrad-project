@@ -1,0 +1,206 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FinalYearProjectBackup.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Functions.cpp
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\timeseries.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\timeseries.cpp(76): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\timeseries.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(74): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(112): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(157): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(176): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(184): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(248): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(102): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(158): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(169): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(174): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(220): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(240): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(244): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(260): warning C4018: '>': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(275): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(283): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(383): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(413): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(123): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(197): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(205): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(281): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(50): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(59): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(98): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(146): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(194): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(236): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(237): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(50): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(59): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(75): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(105): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(115): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(125): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(152): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(155): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(185): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(188): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(217): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(226): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(253): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(280): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(123): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(183): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(184): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(234): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(235): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+  Main.cpp
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\main.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\timeseries.cpp(56): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\timeseries.cpp(76): warning C4244: 'argument': conversion from 'int' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\timeseries.cpp(115): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(74): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(112): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(157): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(176): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(184): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\paa.cpp(248): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(89): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(102): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(158): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(169): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(174): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(220): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(240): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(244): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(260): warning C4018: '>': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(275): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(283): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(383): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\apca.cpp(413): warning C4244: '=': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(113): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(123): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(197): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(205): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\distances.cpp(281): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(50): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(59): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(98): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(146): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(194): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(236): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\imp.cpp(237): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(38): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(50): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(59): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(75): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(105): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(115): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(125): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(152): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(155): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(185): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(188): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(217): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(226): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(253): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\exprt.cpp(280): warning C4018: '<': signed/unsigned mismatch
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(71): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(72): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(123): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(124): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(183): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(184): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(234): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+e:\uni\final year projecct\finalyearproject with base functions\finalyearproject\finalyearproject\functions.cpp(235): warning C4244: 'initializing': conversion from 'float' to 'long', possible loss of data
+  Generating Code...
+  FinalYearProject.vcxproj -> E:\Uni\Final Year Projecct\FinalYearProject with base Functions\FinalYearProject\Debug\FinalYearProject.exe
